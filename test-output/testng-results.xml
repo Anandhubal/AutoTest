@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-24T17:14:08 IST" name="Default suite" finished-at="2023-08-24T17:14:18 IST" duration-ms="9670">
+    <groups>
+    </groups>
+    <test started-at="2023-08-24T17:14:08 IST" name="Default test" finished-at="2023-08-24T17:14:18 IST" duration-ms="9670">
+      <class name="Tests.TestDetails">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.TestDetails@5bf0d49]" started-at="2023-08-24T17:14:08 IST" name="setup" finished-at="2023-08-24T17:14:11 IST" duration-ms="2652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="urlloading()[pri:0, instance:Tests.TestDetails@5bf0d49]" started-at="2023-08-24T17:14:11 IST" name="urlloading" finished-at="2023-08-24T17:14:17 IST" duration-ms="6351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- urlloading -->
+        <test-method signature="testactivity3()[pri:0, instance:Tests.TestDetails@5bf0d49]" started-at="2023-08-24T17:14:17 IST" name="testactivity3" finished-at="2023-08-24T17:14:18 IST" duration-ms="581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testactivity3 -->
+      </class> <!-- Tests.TestDetails -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
